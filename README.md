@@ -19,13 +19,13 @@
 
 You can connect with me on various platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishannaik7/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ishannaik7)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishannaik7/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishannaik)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5cqgErvhRaNK3z0gy_r6vQ)
-[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.github.com/ishannaik)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me%20on%20Gmail-critical?style=for-the-badge&logo=gmail)](mailto:ishannaik7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mangesh_2675/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangesh2675)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/)
+[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.github.com/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me%20on%20Gmail-critical?style=for-the-badge&logo=gmail)](mailto:mangeshpal2675@gmail.com)
 [![Discord Server](https://img.shields.io/discord/1213134833837019237?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/GBTXBUcuzR)
 
 
@@ -239,9 +239,9 @@ You can connect with me on various platforms:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangesh2675/mangesh2675/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mangesh2675/mangesh2675/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mangesh2675/mangesh2675/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -259,9 +259,6 @@ You can connect with me on various platforms:
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh2675&layout=compact&title_color=ff6f00&text_color=585858&bg_color=00000000" alt="top langs"/>
 </div>
 
-<br>
 
-<h2 align="center">🙋‍♂️ Support 🙋‍♂️</h2>
-💙 If you like this project, give it a ⭐ and share it with friends!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mangesh2675)
+
