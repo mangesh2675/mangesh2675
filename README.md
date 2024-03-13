@@ -152,10 +152,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL">
 </a>
 
-<a href="https://grafana.com/">
-  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana">
-</a>
-
 <a href="https://mail.google.com/">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
 </a>
