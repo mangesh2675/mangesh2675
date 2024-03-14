@@ -220,10 +220,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop">
 </a>
 
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=pr&theme=dark" alt="PostgreSQL">
-</a>
-
 </div>
 
 <br/>
