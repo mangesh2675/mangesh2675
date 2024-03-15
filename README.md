@@ -124,10 +124,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest">
 </a>
 
-<a href="https://twitter.com/">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter">
-</a>
-
 <a href="https://ubuntu.com/">
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu">
 </a>
