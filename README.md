@@ -152,10 +152,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
 </a>
 
-<a href="https://about.gitlab.com/">
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab">
-</a>
-
 <a href="https://cloud.google.com/">
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform">
 </a>
