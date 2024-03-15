@@ -196,10 +196,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
 </a>
 
-<a href="https://www.instagram.com/">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
-</a>
-
 <a href="https://www.notion.so/">
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion">
 </a>
