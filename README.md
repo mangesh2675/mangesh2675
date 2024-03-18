@@ -144,10 +144,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=heroku&theme=dark" alt="Heroku">
 </a>
 
-<a href="https://graphql.org/">
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL">
-</a>
-
 <a href="https://mail.google.com/">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
 </a>
