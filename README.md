@@ -84,10 +84,6 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code">
 </a>
 
-<a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker">
-</a>
-
 <a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">
 </a>
